@@ -1,5 +1,5 @@
 context:
-  version: "0.0.6"
+  version: "0.0.7"
 
 package:
   name: nb-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/jupyter-ai-contrib/nb-cli/archive/v${{ version }}.tar.gz
-  sha256: e2010feb16e8889ccb19aa7a736666c56aee143be0373deb80b42d64e688a536
+  sha256: 815391f36889437909156b81f03c685bd437c32a3007d59b6c072b10a8842a7a
 
 build:
   number: 0
